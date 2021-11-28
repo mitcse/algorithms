@@ -1,1 +1,0 @@
-select nvl(semester, '1') from teaches;

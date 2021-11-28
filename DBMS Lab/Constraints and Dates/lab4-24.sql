@@ -1,1 +1,0 @@
-select empName from Employee where extract(year from dob) between 1970 and 1972;

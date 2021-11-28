@@ -1,1 +1,0 @@
-select empName from Employee where (extract(year from dob)+60)=2037;

@@ -1,1 +1,0 @@
- select name, length(name) from student;

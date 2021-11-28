@@ -1,1 +1,0 @@
-alter table Employee add foreign key (dno) references Department2(deptNo) on delete cascade;

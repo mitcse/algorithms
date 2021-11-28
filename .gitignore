@@ -1,3 +1,63 @@
-/**/*.o
-/**/*.out
-/**/*.class
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+.env
+*.env
+
+# Prerequisites
+*.d
+
+# Log file
+*.log
+
+# Compiled files
+*.o
+*.lo
+*.ko
+*.slo
+*.elf
+*.obj
+*.class
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.gem
+*.rbc
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar

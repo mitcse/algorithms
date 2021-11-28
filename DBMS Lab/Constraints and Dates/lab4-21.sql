@@ -1,1 +1,0 @@
-select empName, round((sysdate - dob)/365) from employee;

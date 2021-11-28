@@ -1,1 +1,0 @@
-This database is compatible with SQLite (Download RazorSQL/SQLite Browser to test queries.)
